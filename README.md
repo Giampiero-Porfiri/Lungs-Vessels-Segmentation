@@ -1,1 +1,1 @@
-# Lungs-Vessels-Segmentation
+# Lungs Vessels Segmentation
