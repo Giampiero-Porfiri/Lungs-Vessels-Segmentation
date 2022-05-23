@@ -1,3 +1,3 @@
 # Lung Vessels Segmentation
-This project contains a MATLAB script which enables blood vessels segmentation.
+This project contains a MATLAB script which enables vessels segmentation.
 It was developed by Giampiero Porfiri with the supervision of NECSTLab members from the Polytechnic University of Milan.
