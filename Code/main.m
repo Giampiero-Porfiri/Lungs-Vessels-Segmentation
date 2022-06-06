@@ -1,8 +1,6 @@
 %% ================= Code by: Giampiero Porfiri =================
 %  The purpose of this script is to read a set of images and to
 %  identify the blood vessels.
-%  They will be masked and enhanced to later be segmentated with
-%  the use of a convolutional network.
 %  ==============================================================
 
 %% Viewing the samples and the mask
