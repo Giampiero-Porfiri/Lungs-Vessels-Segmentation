@@ -8,14 +8,12 @@
 FileName = 'C:\Users\giamp\Desktop\Lungs Segmentation\ExampleScans\Scans\VESSEL12_23.mhd';
 Info = mhd_read_header(FileName);
 Data = mhd_read_volume(Info);
-Data = im2single(Data);
 %sliceViewer(Data);
 %volumeViewer(Data);
 
 MaskName = 'C:\Users\giamp\Desktop\Lungs Segmentation\ExampleScans\Lungmasks\VESSEL12_23.mhd';
 Info = mhd_read_header(MaskName);
 Mask = mhd_read_volume(Info);
-Mask = im2single(Mask);
 %sliceViewer(Mask);
 %volumeViewer(Mask);
 
